@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Abstracktion\Abstracktion\Abstracktion\bin\Debug\net6.0\Abstracktion.exe
+C:\Users\user\Desktop\Abstracktion\Abstracktion\Abstracktion\bin\Debug\net6.0\Abstracktion.deps.json
+C:\Users\user\Desktop\Abstracktion\Abstracktion\Abstracktion\bin\Debug\net6.0\Abstracktion.runtimeconfig.json
+C:\Users\user\Desktop\Abstracktion\Abstracktion\Abstracktion\bin\Debug\net6.0\Abstracktion.dll
+C:\Users\user\Desktop\Abstracktion\Abstracktion\Abstracktion\bin\Debug\net6.0\Abstracktion.pdb
+C:\Users\user\Desktop\Abstracktion\Abstracktion\Abstracktion\obj\Debug\net6.0\Abstracktion.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Abstracktion\Abstracktion\Abstracktion\obj\Debug\net6.0\Abstracktion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Abstracktion\Abstracktion\Abstracktion\obj\Debug\net6.0\Abstracktion.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Abstracktion\Abstracktion\Abstracktion\obj\Debug\net6.0\Abstracktion.AssemblyInfo.cs
+C:\Users\user\Desktop\Abstracktion\Abstracktion\Abstracktion\obj\Debug\net6.0\Abstracktion.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Abstracktion\Abstracktion\Abstracktion\obj\Debug\net6.0\Abstracktion.dll
+C:\Users\user\Desktop\Abstracktion\Abstracktion\Abstracktion\obj\Debug\net6.0\refint\Abstracktion.dll
+C:\Users\user\Desktop\Abstracktion\Abstracktion\Abstracktion\obj\Debug\net6.0\Abstracktion.pdb
+C:\Users\user\Desktop\Abstracktion\Abstracktion\Abstracktion\obj\Debug\net6.0\Abstracktion.genruntimeconfig.cache
+C:\Users\user\Desktop\Abstracktion\Abstracktion\Abstracktion\obj\Debug\net6.0\ref\Abstracktion.dll
